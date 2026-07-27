@@ -1,4 +1,4 @@
-<img width="1024" height="631" alt="image" src="https://github.com/user-attachments/assets/3dc1dbb1-9e32-4dec-81b9-ae7f186f9596" /># Credit-Card-Retention-Project
+# Credit-Card-Retention-Project
 
 ## Project Objective
 In this project, I used PowerBI to analyze and credit card attrition and usage across a customer base. With this knowledge, I was able to explore what drives customer engagement, churn, and profitability.
