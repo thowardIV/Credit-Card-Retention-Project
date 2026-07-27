@@ -5,3 +5,25 @@ In this project, I used PowerBI to analyze and credit card attrition and usage a
 
 ## Dataset Used
 - <a href="https://github.com/thowardIV/Credit-Card-Retention-Project/blob/main/Credit%20(1).csv">Dataset</a>
+
+## Questions and KPI's
+- Which customer attributes are linked to retention or attrition?
+- What behavior flags (e.g., inactivity, contact volume) suggest churn?
+- How do age, tenure, card type, income, and usage relate to loyalty?
+- Which segments are underperforming or at risk?
+- What operational actions can improve customer retention?
+- Customer Retention Rate
+- Attrition Rate
+- Average Credit Limit
+- Average Utilization Ratio
+- Average Transaction Count (Last 12 Months)
+
+## Process
+- Verified data for missing values, incorrect data types, and renamed columns.
+- Created DAX measures to use in the dashboard.
+- Created visuals according to the KPI's wanted.
+  
+
+
+
+
